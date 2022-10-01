@@ -109,7 +109,7 @@ public class numeromayor extends javax.swing.JFrame {
             }
         }
         catch(NumberFormatException ex){
-            JOptionPane.showMessageDialog(null, "tienen que ser numeros bobito");
+            JOptionPane.showMessageDialog(null, "tienen que ser numeros");
     }
     }//GEN-LAST:event_btncalcularActionPerformed
 

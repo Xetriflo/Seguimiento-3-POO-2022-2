@@ -144,7 +144,7 @@ public class triangulo extends javax.swing.JFrame {
             txtarea.setText(String.valueOf(calculos.calcular_area(lado)));
         }
         catch(NumberFormatException ex){
-            JOptionPane.showMessageDialog(null, "tienen que ser numeros bobito");
+            JOptionPane.showMessageDialog(null, "tienen que ser numeros");
     }
     }//GEN-LAST:event_btncalcularActionPerformed
 
